@@ -2,3 +2,4 @@
 .idea/
 vendor/
 bootstrap.php
+/tests/bootstrap.php
